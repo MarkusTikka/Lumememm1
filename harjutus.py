@@ -34,3 +34,5 @@ class Bank(User):
     def view_balance(self):
         self.show_details()
         print("Account balance: €", self.balance)
+
+#Markus 13.02
